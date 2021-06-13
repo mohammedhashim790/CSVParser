@@ -6,9 +6,8 @@ Download and import the respective JAR File in the editor.
 
 Functions:
 
-<H>
-  * DataCSV()
-  * DataCSV(String FileName)
+<H> * DataCSV()</H>
+<H> * DataCSV(String FileName)
   * CreateCSV(String FileName,List<Object> Columns)
   * ReadCSV(String FileName)
   * save()
@@ -21,4 +20,4 @@ Functions:
   * getRow(int rowNumber)
   * getColumn(int columnNumber)
   * getColumns(String columnName)
-</H>
+
