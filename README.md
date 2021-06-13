@@ -6,8 +6,8 @@ Download and import the respective JAR File in the editor.
 
 Functions:
 
-<H> * DataCSV()</H>
-<H> * DataCSV(String FileName)
+  * DataCSV()
+  * DataCSV(String FileName)
   * CreateCSV(String FileName,List<Object> Columns)
   * ReadCSV(String FileName)
   * save()
