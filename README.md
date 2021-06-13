@@ -1,2 +1,8 @@
 # CSVParser
-CSV Parser is used to process CSV files in java. 
+CSV Parser in java is used to process and manipulate CSV files.
+
+Java Docs:
+
+<H>
+  * DataCSV()
+</H>
